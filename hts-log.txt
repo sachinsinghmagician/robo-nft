@@ -1,0 +1,18 @@
+HTTrack3.49-5 launched on Fri, 25 Apr 2025 13:09:17 at https://themesflat.co/html/cyfoniihtml/?storefront=envato-elements +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://themesflat.co/html/cyfoniihtml/?storefront=envato-elements -O "/home/anmol-singh/websites/robo nft" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A100000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:11:38	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://themesflat.co/html/cyfoniihtml/author02.html
+13:11:50	Error: 	"Forbidden" (403) at link https://themesflat.co/html/cyfoniihtml/app/dist/ (from https://themesflat.co/html/cyfoniihtml/help-center.html)
+13:12:10	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://themesflat.co/html/assets/images/layouts/pattern.png
+13:12:18	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://themesflat.co/html/assets/images/background/watch.png
+13:12:41	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://themesflat.co/html/cyfoniihtml/author02.html
+13:12:44	Warning: 	HTML file (199 bytes) retransferred due to lack of cache: https://themesflat.co/html/cyfoniihtml/app/dist/
+13:12:46	Error: 	"Forbidden" (403) at link https://themesflat.co/html/cyfoniihtml/app/dist/ (from https://themesflat.co/html/cyfoniihtml/help-center.html)
+
+HTTrack Website Copier/3.49-5 mirror complete in 3 minutes 34 seconds : 147 links scanned, 146 files written (23502679 bytes overall) [22071945 bytes received at 103139 bytes/sec], 1728928 bytes transferred using HTTP compression in 22 files, ratio 12%, 1.3 requests per connection
+(2 errors, 5 warnings, 0 messages)
